@@ -1,0 +1,5 @@
+﻿train: ../data/images/train
+val: ../data/images/val
+
+nc: 12
+names: ['bsk1', 'bsk1_con', 'bsk1_wt', 'bss_large', 'fd_can', 'hs_can', 'kkkl_can', 'mnd_can', 'nfsq', 'xb_can', 'xb_wt', 'xb']
