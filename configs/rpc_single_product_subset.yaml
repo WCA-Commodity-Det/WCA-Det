@@ -1,0 +1,18 @@
+path: /path/to/rpc_single_product_subset_yolo
+train: images/train
+val: images/val
+test: images/test
+nc: 12
+names:
+  0: "196_stationery"
+  1: "131_chocolate"
+  2: "190_tissue"
+  3: "197_stationery"
+  4: "173_personal_hygiene"
+  5: "124_chocolate"
+  6: "172_personal_hygiene"
+  7: "177_tissue"
+  8: "148_candy"
+  9: "194_stationery"
+  10: "158_seasoner"
+  11: "63_dessert"

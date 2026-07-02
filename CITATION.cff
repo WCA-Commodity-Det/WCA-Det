@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this code or dataset, please cite the related manuscript."
 title: "WCA-Det: Weak-Class-Aware Dual-Attention Enhancement for Fine-Grained Commodity Detection"
-version: "1.0.0"
-date-released: "2026-06-15"
+version: "1.1.0"
+date-released: "2026-07-02"
 authors:
   - family-names: "Ling"
     given-names: "Yixuan"
@@ -14,5 +14,12 @@ authors:
     given-names: "Mengzi"
   - family-names: "Xie"
     given-names: "Kai"
+  - family-names: "He"
+    given-names: "Jian-Biao"
 repository-code: "https://github.com/WCA-Commodity-Det/WCA-Det"
-
+keywords:
+  - "commodity detection"
+  - "fine-grained object detection"
+  - "YOLO11"
+  - "weak-class augmentation"
+  - "attention mechanism"
